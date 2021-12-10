@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Downloads/apigateway/ApiGateway.iml" filepath="$USER_HOME$/Downloads/apigateway/ApiGateway.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/mcommerce-ExternalisationConfig/clientui/clientui.iml" filepath="$USER_HOME$/Downloads/mcommerce-ExternalisationConfig/clientui/clientui.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/mcommerce-ExternalisationConfig/config-server/config-server.iml" filepath="$USER_HOME$/Downloads/mcommerce-ExternalisationConfig/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server-repo/config-server-repo.iml" filepath="$PROJECT_DIR$/config-server-repo/config-server-repo.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/eureka-server/eureka-server.iml" filepath="$USER_HOME$/Downloads/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/mcommerce-ExternalisationConfig/microservice-commandes/mcommandes.iml" filepath="$USER_HOME$/Downloads/mcommerce-ExternalisationConfig/microservice-commandes/mcommandes.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/mcommerce-ExternalisationConfig/microservice-paiement/mpaiement.iml" filepath="$USER_HOME$/Downloads/mcommerce-ExternalisationConfig/microservice-paiement/mpaiement.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/mcommerce-ExternalisationConfig/microservice-produits/mproduits.iml" filepath="$USER_HOME$/Downloads/mcommerce-ExternalisationConfig/microservice-produits/mproduits.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/mcommerce-springadmin/springadmin/springadmin.iml" filepath="$USER_HOME$/Downloads/mcommerce-springadmin/springadmin/springadmin.iml" />
+    </modules>
+  </component>
+</project>

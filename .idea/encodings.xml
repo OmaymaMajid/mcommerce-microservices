@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$USER_HOME$/Downloads/apigateway/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/apigateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/mcommerce-ExternalisationConfig/clientui/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/mcommerce-ExternalisationConfig/clientui/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/mcommerce-ExternalisationConfig/config-server/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/mcommerce-ExternalisationConfig/config-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/mcommerce-ExternalisationConfig/microservice-commandes/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/mcommerce-ExternalisationConfig/microservice-commandes/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/mcommerce-ExternalisationConfig/microservice-paiement/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/mcommerce-ExternalisationConfig/microservice-paiement/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/mcommerce-ExternalisationConfig/microservice-produits/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/mcommerce-ExternalisationConfig/microservice-produits/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/mcommerce-springadmin/springadmin/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/mcommerce-springadmin/springadmin/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
